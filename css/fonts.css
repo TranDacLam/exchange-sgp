@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'AvenirNext-Bold';
+    src: url('./../libs/fonts/AvenirNext/AvenirNext-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'AvenirNext-Medium';
+    src: url('./../libs/fonts/AvenirNext/AvenirNext-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'AvenirNext-DemiBold';
+    src: url('./../libs/fonts/AvenirNext/AvenirNext-DemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'AvenirNext-Regular';
+    src: url('./../libs/fonts/AvenirNext/AvenirNext-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'AvenirNext-Heavy';
+    src: url('./../libs/fonts/AvenirNext/AvenirNext-Heavy.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('./../libs/fonts/Roboto/Roboto-Medium.ttf');
+}
